@@ -58,5 +58,6 @@ dependencies {
     debugImplementation(libs.androidx.ui.test.manifest)
 
     implementation(libs.accompanist.pager)
+    //implementation(libs.coil.compose)
     implementation(libs.coil.compose)
 }
